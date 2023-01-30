@@ -16,7 +16,8 @@ Implement A* Algorithm to find a path between start and end point on a given map
 ## Contents
 
 <pre>
-    ├── Outputs│   └── images
+    ├── Outputs  
+    │   └── images
     ├── LICENSE
     ├── README
     └── A-star_path_planner.py
@@ -27,17 +28,15 @@ Implement A* Algorithm to find a path between start and end point on a given map
 ### Flowchart of the algorithm
 
 <p align="center">
-<img width="50%" alt="TB3" src="">
+<img width="50%" alt="TB3" src="https://user-images.githubusercontent.com/106445479/215384762-67b34d31-5ae9-40c7-8104-3e14a8ae34f3.png">
 </p>
 
 ### Steps to run my implementation
 
 1. Clone the repository
-
 ```
 git clone https://github.com/bharadwaj-chukkala/Path-Planning-for-a-point-robot-using-A-star-Search-Algorithm.git
 ```
-
 2. Install Python 3.9 and the libraries mentinoned below prior to running the code
 3. Go to the root directory from your IDE.
 4. Open the clonned project file in any IDE. (I used PyCharm)
@@ -77,18 +76,21 @@ git clone https://github.com/bharadwaj-chukkala/Path-Planning-for-a-point-robot-
 - The Planned Path is shown by Red Dotted Lines.
 
 <p align="center">
-<img width="50%" alt="TB3" src="">
+<img width="40%" alt="Step size 1" src="https://github.com/bharadwaj-chukkala/Path-Planning-for-a-point-robot-using-A-star-Search-Algorithm/blob/main/Outputs/images/step_size%201.png"> <br>
+<b>Step size 1</b>
 </p>
 
 <p align="center">
-<img width="50%" alt="TB3" src="">
+<img width="40%" alt="Step size 2" src="https://github.com/bharadwaj-chukkala/Path-Planning-for-a-point-robot-using-A-star-Search-Algorithm/blob/main/Outputs/images/step_size%202.png"> <br>
+<b>Step size 2</b>
 </p>
 
 <p align="center">
-<img width="50%" alt="TB3" src="">
+<img width="40%" alt="Step size 3" src="https://github.com/bharadwaj-chukkala/Path-Planning-for-a-point-robot-using-A-star-Search-Algorithm/blob/main/Outputs/images/step_size%203.png"> <br>
+<b>Step size 3</b>
 </p>
 
-### [Video Drive Link](https://drive.google.com/drive/folders/1o5HvvbLppkN7Pmss0JQCHE8xHmnWHCw_?usp=sharing)
+### [Implementation Video Drive Link](https://drive.google.com/drive/folders/1o5HvvbLppkN7Pmss0JQCHE8xHmnWHCw_?usp=sharing)
 
 ## License
 
@@ -96,9 +98,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Author Contact
 
-**Bharadwaj Chukkala** `<br>`
-UID: 118341705 `<br>`
-Bharadwaj Chukkala is currently a Master's student in Robotics at the University of Maryland, College Park, MD (Batch of 2023). His interests include Machine Learning, Perception and Path Planning for Autonomous Robots.`<br>`
+**Bharadwaj Chukkala** <br>
+UID: 118341705 <br>
+Bharadwaj Chukkala is currently a Master's student in Robotics at the University of Maryland, College Park, MD (Batch of 2023). His interests include Machine Learning, Perception and Path Planning for Autonomous Robots. <br>
 [![Contact](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](bchukkal@umd.edu)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bharadwaj-chukkala/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bharadwaj-chukkala)

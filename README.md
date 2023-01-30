@@ -16,8 +16,7 @@ Implement A* Algorithm to find a path between start and end point on a given map
 ## Contents
 
 <pre>
-    ├── Outputs  
-    │   └── images
+    ├── Outputs│   └── images
     ├── LICENSE
     ├── README
     └── A-star_path_planner.py
